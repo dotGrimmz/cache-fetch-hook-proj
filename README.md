@@ -31,17 +31,14 @@ This project demonstrates a simple React caching fetch library integrated into a
 
 2. Install dependencies:
 
-   '''wsl
+   ```wsl
    npm i
-
-   ```
-
    ```
 
 3. Run the app locally:
 
-   ````wsl
-    npm start```
-   ````
+   ```wsl
+    npm start
+   ```
 
 4. Open your browser at http://localhost:3000
